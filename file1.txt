@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Hello from master file
 Feature one super conflict
-=======
-
->>>>>>> add-feature1
