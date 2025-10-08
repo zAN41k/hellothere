@@ -1,1 +1,2 @@
-File2 was updated from local2
+File2 was updated from local
+Again changes from remote
