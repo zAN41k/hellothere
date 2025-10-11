@@ -1,2 +1,5 @@
+File2 was updated from local
+Again changes from remote
+New update from local
 File2 from main branch
 File from feature1
